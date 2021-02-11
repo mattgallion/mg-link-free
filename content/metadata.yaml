@@ -1,5 +1,5 @@
-title: Link free
-shortTitle: Link free
+title: Matt Gallion
+shortTitle: Matt Gallion
 siteUrl: https://link.mattgallion.net/
 description: ''
 lang: en
@@ -8,7 +8,7 @@ favicon: favicon.png
 rounded: '16'
 colors:
   DEFAULT: '#FAFAFA'
-  highlight: '#005493'
+  highlight: '#007ddc'
   accent: '#262626'
   background: '#262626'
 tracking:
