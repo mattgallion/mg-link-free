@@ -1,6 +1,6 @@
 title: Link free
 shortTitle: Link free
-siteUrl: https://themes.marscollective.co/link-free
+siteUrl: https://link.mattgallion.net/
 description: ''
 lang: en
 logo: logo.png
@@ -8,7 +8,7 @@ favicon: favicon.png
 rounded: '16'
 colors:
   DEFAULT: '#FAFAFA'
-  highlight: '#00d1b7'
+  highlight: '#005493'
   accent: '#262626'
   background: '#262626'
 tracking:
